@@ -1,0 +1,121 @@
+*{
+    padding: 0 px;
+    margin: 0 px;
+  }
+  .body{
+    background-color: black;
+    color: white;
+  }
+  .singin_main .singin_welcome{
+      margin-top: 5rem !important;
+      
+
+  }
+  .singin_main .backGround_singin_logo_side{
+      
+      background-image: url(../img/background.png);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+
+  }
+  .singin_main .singin_welcome p strong a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    
+    }
+  .singin_main .singin_welcome img.sing_icon{
+      width: 10%;
+      
+  }
+  .singin_main .singin_welcome img.singin_main{
+      width: 50%;
+      display: block;
+      margin: 0 auto;
+  }
+  
+  .singin_main .singin_welcome button.btn_sing_up{
+    background: linear-gradient(92.84deg, #FE413D -36.1%, #000000 143.59%);
+    color: white;
+    box-shadow: 0px 33px 44px #000000;
+    border-bottom-left-radius: 100%;
+    border-bottom-right-radius: 100%;
+    padding: 10px 45px 10px 45px;
+    font-weight: 800;
+    display: block;
+    margin: 0 auto;
+
+}
+
+
+  
+
+.singin_main .backGround_signin_form_side {
+    background-image: url(../img/Desktop\ -\ 1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size:contain;
+  
+}
+.singin_main .singin_form_log {
+  
+    width: 100%;
+}
+
+.singin_main .singin_form_log img.singin_head_img{
+    width: 20%;
+   float: left;
+}
+.singin_main .singin_form_log img.singin_foot_img{
+    width: 40%;
+   float: right;
+   display: block;
+   margin-top: 3%;
+}
+.singin_main .singin_form_log .sing_sect {
+    margin-top: 10rem !important;
+    /* position: relative;
+    right: 55px; */
+    margin: 0 auto;
+    width: 50%;
+}
+.singin_main .singin_form_log .sing_sect h3 {
+    margin-top: 3rem !important;
+}
+.singin_main .singin_form_log img.sing_in_logo{
+    width: 40%;
+   margin-top: 0rem !important;
+   
+   display: block;
+}
+  
+.singin_main .singin_form_log .sing_sect form {
+   text-align: left;
+   
+}
+.singin_main .singin_form_log .sing_sect form .form-group label {
+   font-weight: 600;
+
+}
+.singin_main .singin_form_log .sing_sect form .form-group input {
+   background: none;
+   border: 1px solid rgb(146, 145, 145);
+ 
+}
+.singin_main .singin_form_log .sing_sect form p {
+   text-align: right;
+
+}
+.singin_main .singin_form_log .sing_sect form button.btn_login_button {
+   margin:  0 auto;
+   background: linear-gradient(92.84deg, #FE413D -36.1%, #000000 143.59%);
+box-shadow: 0px 33px 44px #000000;
+border-radius: 11px;
+color: white;
+font-weight: 500;
+width: 40%;
+height: 45px;
+margin-bottom: 10px;
+
+}
